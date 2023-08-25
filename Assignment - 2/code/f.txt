@@ -1,0 +1,76 @@
+OVA (logistic regression) 
+ 
+For C : 1 prec@1: 0.782 prec@3: 0.917 prec@5: 0.948 mprec@1: 4.261e-01 mprec@3: 7.027e-01 mprec@5: 7.974e-01
+
+
+For C : 2 prec@1: 0.788 prec@3: 0.918 prec@5: 0.953 mprec@1: 4.683e-01 mprec@3: 7.105e-01 mprec@5: 8.326e-01
+
+
+For C : 3 prec@1: 0.792 prec@3: 0.920 prec@5: 0.955 mprec@1: 4.932e-01 mprec@3: 7.274e-01 mprec@5: 8.462e-01
+
+
+For C : 4 prec@1: 0.794 prec@3: 0.922 prec@5: 0.955 mprec@1: 5.092e-01 mprec@3: 7.402e-01 mprec@5: 8.496e-01
+
+
+For C : 5 prec@1: 0.796 prec@3: 0.922 prec@5: 0.954 mprec@1: 5.142e-01 mprec@3: 7.502e-01 mprec@5: 8.473e-01
+
+
+For C : 6 prec@1: 0.795 prec@3: 0.922 prec@5: 0.954 mprec@1: 5.166e-01 mprec@3: 7.499e-01 mprec@5: 8.425e-01
+
+
+For C : 7 prec@1: 0.795 prec@3: 0.923 prec@5: 0.954 mprec@1: 5.165e-01 mprec@3: 7.533e-01 mprec@5: 8.429e-01
+
+
+For C : 8 prec@1: 0.797 prec@3: 0.923 prec@5: 0.952 mprec@1: 5.223e-01 mprec@3: 7.544e-01 mprec@5: 8.380e-01
+
+
+For C : 9 prec@1: 0.796 prec@3: 0.923 prec@5: 0.952 mprec@1: 5.224e-01 mprec@3: 7.554e-01 mprec@5: 8.342e-01
+
+
+For C : 10 prec@1: 0.797 prec@3: 0.923 prec@5: 0.951 mprec@1: 5.223e-01 mprec@3: 7.580e-01 mprec@5: 8.319e-01
+
+
+OVA (logistic regression) 
+ 
+OVA (logistic regression) 
+ 
+For C : 1 prec@1: 0.816 prec@3: 0.944 prec@5: 0.974 mprec@1: 5.628e-01 mprec@3: 8.288e-01 mprec@5: 9.136e-01
+
+
+For C : 2 prec@1: 0.824 prec@3: 0.951 prec@5: 0.976 mprec@1: 6.033e-01 mprec@3: 8.609e-01 mprec@5: 9.429e-01
+
+
+For C : 3 prec@1: 0.828 prec@3: 0.954 prec@5: 0.978 mprec@1: 6.215e-01 mprec@3: 8.722e-01 mprec@5: 9.487e-01
+
+
+For C : 4 prec@1: 0.830 prec@3: 0.956 prec@5: 0.979 mprec@1: 6.350e-01 mprec@3: 8.883e-01 mprec@5: 9.514e-01
+
+
+For C : 5 prec@1: 0.832 prec@3: 0.956 prec@5: 0.979 mprec@1: 6.441e-01 mprec@3: 8.915e-01 mprec@5: 9.551e-01
+
+
+For C : 6 prec@1: 0.834 prec@3: 0.957 prec@5: 0.979 mprec@1: 6.466e-01 mprec@3: 8.944e-01 mprec@5: 9.558e-01
+
+
+For C : 7 prec@1: 0.834 prec@3: 0.958 prec@5: 0.979 mprec@1: 6.526e-01 mprec@3: 9.010e-01 mprec@5: 9.558e-01
+
+
+For C : 8 prec@1: 0.834 prec@3: 0.958 prec@5: 0.979 mprec@1: 6.588e-01 mprec@3: 9.026e-01 mprec@5: 9.558e-01
+
+
+For C : 9 prec@1: 0.835 prec@3: 0.959 prec@5: 0.980 mprec@1: 6.672e-01 mprec@3: 9.029e-01 mprec@5: 9.585e-01
+
+
+For C : 10 prec@1: 0.837 prec@3: 0.959 prec@5: 0.979 mprec@1: 6.696e-01 mprec@3: 9.043e-01 mprec@5: 9.601e-01
+
+
+KNN 
+ 
+ prec@1: 0.578 prec@3: 0.808 prec@5: 0.897 mprec@1: 2.109e-01 mprec@3: 4.294e-01 mprec@5: 5.916e-01
+
+
+Decision Tree : 
+ 
+ prec@1: 0.739 prec@3: 0.791 prec@5: 0.797 mprec@1: 4.964e-01 mprec@3: 5.477e-01 mprec@5: 5.776e-01
+
+
